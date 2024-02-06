@@ -14,3 +14,7 @@ pytest-describe = "*"
 
 [requires]
 python_version = "3.12"
+
+[scripts]
+tests = "pytest"
+watchTests = "ptw"
